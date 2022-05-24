@@ -90,6 +90,17 @@ p {
   text-align: right;
 }
 
+.message__user {
+  width: 100%;
+  border-radius: 5px;
+  margin: 5px 0;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: rgb(213, 212, 216);
+  align-items: center;
+  background: #3498db;
+}
+
 .message__content {
   background: rgb(68, 68, 68);
   border: none;
